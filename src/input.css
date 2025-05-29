@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+@theme {
+  --spacing-mContainer: 1360px; 
+
+    --font-pop: "Poppins", "sans-serif"; 
+    --font-poper: "Montserrat", "sans-serif"; 
+      --color-noyann: #5F5270;
+      --color-nai: #C4C4C4;
+      --color-aaai: #8A38EE;
+      --color-aaa: #5F5270;
+      --color-aaan: #E0C7FF;
+      --color-ayan: #F5F5F5;
+      --color-adiba: #212121;
+      
+   
+    
+      
+}
